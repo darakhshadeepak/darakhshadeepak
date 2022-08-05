@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I am Deepak 👋
+A Consistent learner who belives in hard work.
 
-<!--
-**darakhshadeepak/darakhshadeepak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src='https://user-images.githubusercontent.com/60574055/183017625-af0779ae-0090-406c-867b-1e8ba1995484.gif' align="middle" />
+<img src='https://github-readme-stats.vercel.app/api?username=darakhshadeepak&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=darakhshadeepak&theme=tokyonight&hide_langs_below=4' align="middle" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darakhshadeepak" alt="darakhshadeepak" /></a> </p>
+
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=darakhshadeepak)
+
+![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=darakhshadeepak&repo=element-android&theme=great-gatsby)
+
+![Visitor Count](https://profile-counter.glitch.me/darakhshadeepak/count.svg)
+
+
+
+
+
+
+
+
+
