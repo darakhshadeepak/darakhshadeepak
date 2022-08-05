@@ -1,25 +1,39 @@
-### Hi there, I am Deepak 👋
-A Consistent learner who belives in hard work.
+# Hi  👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=I+am+Deepak)](https://git.io/typing-svg)
 
-<img src='https://user-images.githubusercontent.com/60574055/183017625-af0779ae-0090-406c-867b-1e8ba1995484.gif' align="middle" />
-<img src='https://github-readme-stats.vercel.app/api?username=darakhshadeepak&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=darakhshadeepak&theme=tokyonight&hide_langs_below=4' align="middle" />
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="coding monke" width="380"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darakhshadeepak" alt="darakhshadeepak" /></a> </p>
+- 😄 I am a final year undergrad student pursuing **B.Tech(C.S.E.)**.
+- 🌱 I’m currently doing online freelancing work .
+- 🎯 Looking forward to contribute to open source more.
 
+***
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=darakhshadeepak)
+# Stats: ✨
 
-![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=darakhshadeepak&repo=element-android&theme=great-gatsby)
+<img src="https://github-readme-stats.vercel.app/api?username=darakhshadeepak&show_icons=true&theme=tokyonight" alt="darakhshadeepak's GitHub stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=darakhshadeepak&theme=dark)" alt="darakhshadeepak's GitHub streak" width="400"/>
 
-![Visitor Count](https://profile-counter.glitch.me/darakhshadeepak/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darakhshadeepak&layout=compact)
 
+---
 
+### Socials:
 
+<p align="left">
+<a href="https://github.com/darakhshadeepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/darakhshadeepak" height="30" width="40" /></
+<a href="https://linkedin.com/in/darakhshadeepak-08032003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darakhshadeepak-08032003" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aryanoob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryanoob" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aryanyash999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryanyash999" height="30" width="40" /></a>
+</p>
 
+---
 
-
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="33" height="33"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> 
+</p>
