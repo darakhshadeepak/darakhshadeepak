@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=I+am+Deepak)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="coding monke" width="380"/>
+<img src="https://user-images.githubusercontent.com/60574055/183017625-af0779ae-0090-406c-867b-1e8ba1995484.gif" alt="Iron man" width="380"/>
 
 - 😄 I am a final year undergrad student pursuing **B.Tech(C.S.E.)**.
 - 🌱 I’m currently doing online freelancing work .
