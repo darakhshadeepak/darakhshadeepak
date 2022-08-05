@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=I+am+Deepak)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="coding monke" width="380"/>
+<img src="https://user-images.githubusercontent.com/60574055/183017625-af0779ae-0090-406c-867b-1e8ba1995484.gif" alt="coding monke" width="380"/>
 
 - 😄 I am a final year undergrad student pursuing **B.Tech(C.S.E.)**.
 - 🌱 I’m currently doing online freelancing work .
@@ -23,8 +23,13 @@
 <p align="left">
 <a href="https://github.com/darakhshadeepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/darakhshadeepak" height="30" width="40" /></
 <a href="https://linkedin.com/in/darakhshadeepak-08032003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darakhshadeepak-08032003" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aryanoob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryanoob" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aryanyash999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryanyash999" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/deepak11_0209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/deepak0209" target="blank"><img align="center" src="https://user-images.githubusercontent.com/60574055/183023770-f3f3c5e9-7cbe-4b45-b7ab-47ef93d6507d.png
+" alt="Deepak" height="30" width="40" /></a>
+  
+ <a href="https://www.hackerrank.com/darakhshadeepak?hr_r=1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/60574055/183023887-11cb9b16-7333-4889-8826-863d7d7f7a4c.png
+" alt="Deepak" height="30" width="40" /></a> -->
+ 
 </p>
 
 ---
